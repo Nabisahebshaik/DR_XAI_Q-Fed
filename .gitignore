@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Dataset archives & bulk images (Too large for GitHub)
+archive*/
+dataset/
+data/
+*.zip
+*.tar.gz
+*.csv
+
+# Model weights (Large binary files - generated locally via train.py / fine_tune.py)
+weights/*.h5
+weights/*.weights.h5
+
+# IDE & OS specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Streamlit local config
+.streamlit/secrets.toml
