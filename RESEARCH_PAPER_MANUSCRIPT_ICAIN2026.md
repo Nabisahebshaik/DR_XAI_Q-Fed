@@ -8,8 +8,8 @@
 ---
 
 ### Authors
-**Nabisaheb Shaik$^{1}$, Lead AI Architect & SIH Research Team**  
-$^{1}$Department of Computer Science & Engineering / Biomedical Informatics  
+**Nabisaheb Shaik{1}, Lead AI Architect & SIH Research Team**  
+{1}Department of Computer Science & Engineering / Biomedical Informatics  
 *(Correspondence Email: shaiknabisaheb187@gmail.com)*
 
 ---
